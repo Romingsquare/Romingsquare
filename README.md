@@ -1,129 +1,124 @@
-# 👋 Hey, I'm Romingsquare!
+# 👋 Hey, I'm Ram Neupane!
 
-> **BCA Graduate** | **Game Developer** | **Android Enthusiast** | **AI-Powered Coder**
+> **BCA Graduate** | **Flutter & Android Developer** | **Unity Developer** | **Practical Product Builder**
 
 ## 🚀 About Me
 
 **Education:** Bachelor in Computer Application  
-**Current Focus:** Game Development • Android Apps • AI Usecases  
-**Passions:** Car Simulation Games • Interactive Experiences • Clean Apps  
-**Philosophy:** Building immersive digital experiences through modern tech stacks  
-**Currently Learning:** Unity Advanced Features • Kotlin  • AI Tooling  
-
+**Current Focus:** Flutter Android Apps • Unity Gameplay Systems • Practical Web Apps  
+**Passions:** Interactive Experiences • Mobile Products • Game Mechanics • Clean Apps  
+**Philosophy:** Building useful digital products with honest, practical technology choices  
+**Currently Learning:** Flutter Architecture • Unity Systems Design • Better Product Workflows  
 
 ## 💫 What I'm Building
 
-### 🎮 **Game Development**
-Crafting immersive car simulation games and interactive experiences using **Unity** and **C#**. Focused on realistic physics, engaging gameplay, and smooth performance.
+### 📱 **Flutter & Android Development**
+Building Android applications with **Flutter** and **Dart**, focused on clean UI, practical features, and real mobile usability.
 
-### 📱 **Android Development**  
-Building modern Android applications with **Kotlin** and **Android Studio**. Creating intuitive UI/UX with Material Design principles.
+### 🎮 **Unity & Game Development**
+Developing gameplay-focused experiences using **Unity** and **C#**. Interested in game mechanics, simulation systems, and interactive design.
 
-### 🤖 **AI-Enhanced Development**
-Leveraging AI tools to accelerate development workflows, solve complex problems, and enhance creativity in the coding process.
+### 🌐 **Practical Web Development**
+Building modern web applications with **Next.js**, **React**, **TypeScript**, and deployment-ready workflows that support complete product development.
 
 ## 🛠 Tech Stack
 
-### **Programming Languages**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### **Game Development**
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Roblox](https://img.shields.io/badge/Roblox-%23000000.svg?style=for-the-badge&logo=roblox&logoColor=white)
-
-### **Mobile Development**
-![Android Studio](https://img.shields.io/badge/Android%20Studio-4285F4.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+### **Core Focus**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-### **Web Technologies**
+### **Web Development**
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### **Tools & Platforms**
+### **Tools & Workflow**
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-A855F7.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
-## 🏆 Featured Project
+## 🏆 Featured Projects
 
-### 🚛 **Transport Sathi** – Final Year BCA Project  
-*A comprehensive transport management solution built with modern web technologies.*
+### 📱 **QR-ME** - Android App on Google Play  
+*A Flutter-based Android QR application published on the Play Store.*
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-8A2BE2?style=for-the-badge)](https://transport-sathi.vercel.app/)
-[![View Code](https://img.shields.io/badge/📁_View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Romingsquare/Transport_sathi)
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.romingsquarestudio.qr_me)
+
+**Tech Stack:** `Flutter` `Dart` `Android` `Google Play Console`
+
+QR-ME is a practical Android app built for generating and customizing QR codes with a clean mobile-first experience.
+
+### 🚛 **Transport Sathi** - Final Year BCA Project  
+*A transport management solution built with modern web technologies.*
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0F766E?style=for-the-badge)](https://transport-sathi.vercel.app/)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Romingsquare/Transport_sathi)
 
 **Tech Stack:** `Next.js 15` `TypeScript` `React 19` `Tailwind CSS` `MongoDB` `NextAuth.js` `eSewa` `Cloudinary`
 
-A full-stack application designed to streamline transport operations with real-time tracking, booking management, and an admin dashboard.
-
----
+A full-stack platform designed to support transport booking, operations, and admin management with a practical real-world workflow.
 
 ### 🔧 Technical Highlights
-- **Frontend:** Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS, Shadcn UI  
-- **Backend:** Next.js API Routes with MongoDB & Mongoose ODM  
-- **Authentication:** NextAuth.js with JWT tokens and role-based access  
-- **Payments:** Integrated eSewa payment gateway  
-- **Storage:** Cloudinary for image and document management  
-- **Deployment:** Vercel with static optimization and global CDN  
-
----
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui
+- **Backend:** API routes with database-backed workflows
+- **Authentication:** Role-based access with NextAuth.js
+- **Payments:** eSewa integration
+- **Storage:** Cloudinary for image and document management
+- **Deployment:** Vercel
 
 ### 🚀 Key Features
-- Real-time booking system with payment processing  
-- Admin dashboard for transport management  
-- Secure user authentication with role-based access control  
-- Responsive modern UI built with Shadcn components  
-- Image and document upload & management  
+- Real-time booking workflow
+- Admin dashboard for transport management
+- Secure user authentication with role-based access control
+- Responsive modern UI
+- Image and document management
 
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romingsquare&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romingsquare&layout=compact&theme=transparent&hide_border=true)
 
 </div>
 
 ## 🎯 Current Focus
 
-- **🎮 Unity Game Dev** - Advanced car physics and multiplayer features
-- **📱 Kotlin Mastery** - Building production-ready Android apps
-- **🤖 AI Integration** - Implementing AI tools in development workflow
-- **🚗 Simulation Tech** - Realistic vehicle mechanics and environments
-- **📚 Continuous Learning** - Exploring new frameworks and best practices
+- **📱 Flutter Android Apps** - building cleaner and more practical mobile products
+- **🎮 Unity Gameplay Systems** - improving mechanics, systems thinking, and interactive design
+- **🌐 Product Web Apps** - strengthening real-world Next.js application workflows
+- **🤝 AI-Assisted Development** - using AI tools to speed up iteration, debugging, and research
+- **📚 Continuous Growth** - learning by shipping projects and refining implementation quality
 
-
-### **My Principles:**
-- 🎨 **User-Centric Design** - Build experiences that users love
-- ⚡ **Performance First** - Optimized and efficient code
-- 🔄 **Agile Mindset** - Iterative development with continuous improvement
-- 🧩 **Clean Architecture** - Maintainable and scalable solutions
-- 🤝 **AI Collaboration** - Leveraging AI to enhance creativity and productivity
+### **My Principles**
+- **🎯 Practical First** - build things that solve real problems
+- **🧩 Clarity Over Hype** - present skills honestly and keep systems understandable
+- **⚡ Performance Matters** - aim for smooth, responsive user experiences
+- **🔄 Keep Improving** - ship, review, refine, and learn
+- **🤝 Use Tools Well** - AI is part of the workflow, not a replacement for understanding
 
 ## 🌟 Let's Collaborate!
 
-I'm always open to discussing game development, Android projects, or innovative tech ideas. Let's create something amazing together!
+I'm always open to discussing mobile apps, Unity projects, practical web products, or interesting development opportunities.
 
-[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Romingsquare)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Romingsquare)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/romingsquare)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge)](https://romingsquare.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge)](https://ramneupane.com.np)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabin.neupane713@gmail.com)
 
 ---
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=Romingsquare&color=blueviolet&style=flat-square&label=👀+Visitors)
+![Visitors](https://komarev.com/ghpvc/?username=Romingsquare&color=0f766e&style=flat-square&label=Profile+Views)
 
-**Thanks for stopping by!** ✨
+**Thanks for stopping by!**
 
 </div>
